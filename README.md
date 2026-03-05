@@ -5,3 +5,5 @@ This project of mine is still very-much a work in progress and I'd rather the co
 
 The link:
 https://drive.google.com/drive/folders/1ak3IlPzBtQ9Kx7AXhQFWWNDEPcgU7w1c?usp=drive_link
+
+This project was mostly written in C#.
