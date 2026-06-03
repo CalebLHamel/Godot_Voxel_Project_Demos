@@ -6,4 +6,5 @@ This project of mine is still very-much a work in progress and I'd rather the co
 The link:
 https://drive.google.com/drive/folders/1ak3IlPzBtQ9Kx7AXhQFWWNDEPcgU7w1c?usp=drive_link
 
-I mostly used C# for this project, though I am working on moving parts of it into a Rust library to help speed up some critical sections.
+I mostly used C# for this project. Now, I'm working on revising the project and rewriting it in Rust using Rust bindings for Godot.
+This is both to give the Rust language a try in a larger project, and has the aim of being more performant than C#.
